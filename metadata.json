@@ -1,0 +1,6 @@
+{
+  "name": "CodeScope",
+  "description": "Local-first, AI-powered context-aware code review tool for Git repositories and .NET/C# solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
